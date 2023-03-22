@@ -1,7 +1,7 @@
 let instructions = [
     {
     "id":1,
-    "intruction":"colocaté con crazy socks 🧦🤪 y llega al lugar de invitación 🦦"
+    "intruction":"colocaté crazy socks 🧦🤪 y llega al lugar de invitación 🦦"
     },
     {
      "id":2,
@@ -9,11 +9,11 @@ let instructions = [
     },
     {
     "id":3,
-    "intruction":"descarga steam e ingresa con el correo: pass:"
+    "intruction":"escoge el juego : 💣 , 🚘 , 🌨, 🐁, 🔥💧"
     },
     {
     "id":4,
-    "intruction":"busca el juego bread and fread 🐧 🐧"
+    "intruction":"dile a tu mor el juego que escogiste ♥️"
     },
     {
         "id":5,
